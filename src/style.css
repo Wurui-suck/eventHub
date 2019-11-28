@@ -1,0 +1,9 @@
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+#root>section{
+    border: 1px red solid;
+    height: 50vh;
+}
